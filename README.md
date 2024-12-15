@@ -1,5 +1,4 @@
-                              ## Hi there 👋 ,I am Prathibha S
----
+                             <b><big>  Hi there 👋 ,I am Prathibha S</big></b>
                              A passionate Student from Mangalore
 ---
 
