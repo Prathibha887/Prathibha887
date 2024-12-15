@@ -1,14 +1,11 @@
-## Hi there 👋 ,I am Prathibha S
+                              ## Hi there 👋 ,I am Prathibha S
 ---
-Apassionate Student from Mangalore
----
-
-# 💫 About Me:
-I am a student <br>I am Studying MCA at sjec Mangalore<br>I am interested in reading
+                             A passionate Student from Mangalore
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Prathibha887&icon=0&color=0)](https://visitcount.itsvg.in)
 
+I am a student <br>I am Studying MCA at sjec Mangalore<br>I am interested in reading
 ---
 
 ## 🌐 Socials:
