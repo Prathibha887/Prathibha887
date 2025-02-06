@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Prathibha887&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am a student <br>I am Studying MCA at sjec Mangalore<br>I am interested in reading
+I am a student <br>I am Studying MCA at SJEC Mangalore<br>I am interested in reading
 ---
 
 ## 🌐 Socials:
